@@ -8,6 +8,7 @@
 
 # Welcome to ENTR-451
 
-(c) 2021 Me
+(c) 2021 Me Too
+
 
 This is an example of a GitHub repository.
