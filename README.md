@@ -7,6 +7,7 @@
                                                  
 
 # Welcome to ENTR-451
-make the readme even more awesome!
+
+(c) 2021 Me
 
 This is an example of a GitHub repository.
